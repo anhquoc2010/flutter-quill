@@ -38,8 +38,8 @@ dependencies:
 
   flutter_quill:
     git:
-    url: git@github.com:anhquoc2010/flutter-quill.git
-    ref: fix/3.24.x
+      url: git@github.com:anhquoc2010/flutter-quill.git
+      ref: fix/3.24.x
   photo_view: ^0.15.0
 
   # Plugins
