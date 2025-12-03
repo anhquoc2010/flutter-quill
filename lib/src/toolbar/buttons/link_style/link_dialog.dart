@@ -1,4 +1,4 @@
-@internal
+// @internal
 @visibleForTesting
 library;
 
@@ -147,7 +147,7 @@ class LinkDialogState extends State<LinkDialog> {
       );
 
   @visibleForTesting
-  @internal
+  // @internal
   bool canPress() {
     if (_text.isEmpty || _link.isEmpty) {
       return false;

@@ -1,4 +1,4 @@
-@internal
+// @internal
 library;
 
 // This file should not be exported as the APIs in it are meant for internal usage only

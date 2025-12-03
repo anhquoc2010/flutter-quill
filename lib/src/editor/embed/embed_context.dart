@@ -15,7 +15,7 @@ import './embed_editor_builder.dart';
 /// * [leaf.Embed]
 /// * [EmbedBuilder]
 class EmbedContext {
-  @internal
+  // @internal
   EmbedContext({
     required this.controller,
     required this.node,

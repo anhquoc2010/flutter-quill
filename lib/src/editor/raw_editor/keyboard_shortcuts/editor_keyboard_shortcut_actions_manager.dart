@@ -5,7 +5,7 @@ import '../raw_editor_state.dart';
 import '../raw_editor_text_boundaries.dart';
 import 'editor_keyboard_shortcut_actions.dart';
 
-@internal
+// @internal
 class EditorKeyboardShortcutsActionsManager {
   EditorKeyboardShortcutsActionsManager({
     required this.rawEditorState,
