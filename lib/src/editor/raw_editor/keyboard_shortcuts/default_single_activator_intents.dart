@@ -8,7 +8,7 @@ import 'editor_keyboard_shortcut_actions.dart';
 
 final _isDesktopMacOS = isMacOS;
 
-@internal
+// @internal
 Map<SingleActivator, Intent> defaultSinlgeActivatorIntents() {
   return {
     const SingleActivator(
